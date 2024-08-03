@@ -1,10 +1,10 @@
 {
-  "name": "nodebb-theme-harmony",
+  "name": "nodebb-theme-connecton-simple",
   "version": "1.2.63",
   "nbbpm": {
     "compatibility": "^3.7.0"
   },
-  "description": "Harmony theme for NodeBB",
+  "description": "Connecton Simple Theme for NodeBB",
   "main": "library.js",
   "repository": {
     "type": "git",
@@ -30,6 +30,9 @@
       "name": "Barış Soner Uşaklı",
       "email": "baris@nodebb.org",
       "url": "https://github.com/barisusakli"
+    },
+    {
+      "name": "openlab"
     }
   ],
   "license": "MIT",
